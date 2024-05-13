@@ -1,0 +1,17 @@
+git init (iniciar)
+git status
+git add .  (cambios)
+
+ctrl L (limpiar terminal)
+
+git commit -m   "se inicialia el repositorio"
+
+git config --list (lista de comandos)
+
+
+$ git config --global user.email "lcallirgos.c@mi.unc.edu.ar"
+
+
+$ git config --global user.name "Luis Felipe Callirgos"
+
+
